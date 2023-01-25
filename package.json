@@ -1,0 +1,28 @@
+{
+  "name": "beacon-proxy-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/curiosi-T/beacon-proxy-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/curiosi-T/beacon-proxy-demo/issues"
+  },
+  "homepage": "https://github.com/curiosi-T/beacon-proxy-demo#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.1",
+    "@openzeppelin/contracts-upgradeable": "^4.8.1",
+    "@openzeppelin/hardhat-upgrades": "^1.22.1",
+    "hardhat": "^2.12.6",
+    "prettier": "^2.8.3",
+    "prettier-plugin-solidity": "^1.1.1"
+  }
+}
